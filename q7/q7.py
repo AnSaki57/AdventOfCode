@@ -1,4 +1,5 @@
-# import copy
+# Not yet pythonified
+
 
 def getArrFromInp(inp: list[str]) -> list[list[int]]:
     outp = []

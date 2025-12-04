@@ -1,3 +1,5 @@
+# Not yet pythonified
+
 def isRepeatingNum(int: int) -> bool:
     s = str(int)
     checknum = (s + s)[1:-1]

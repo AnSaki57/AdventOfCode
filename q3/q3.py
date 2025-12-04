@@ -1,3 +1,5 @@
+# Not yet pythonified
+
 def getDigitCount(inp: int) -> int:
     return len(str(inp))
 

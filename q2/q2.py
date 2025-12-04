@@ -1,3 +1,4 @@
+# Not yet pythonified
 
 def getoffset(s):
     num = int(s[1:])
